@@ -11,4 +11,4 @@ const schema = defineSchema({
   }),
 });
 
-export default schema;
+export default schema; // Default export is required
